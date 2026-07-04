@@ -11,5 +11,5 @@ Para ejecutar el código
 - ir a localhost/<nombre del proyecto>
 
 
-![inicio](inicio.png)
-![busqueda](consulta.png)
+![inicio](images/inicio.png)
+![busqueda](images/consulta.png)
