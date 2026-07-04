@@ -1,7 +1,7 @@
 # Mi Pedido
 #### Página web para seguimiento y creación de pedidos en línea
 
-Proyecto académico del curso Introducción a la programación en PHP 2
+Proyecto académico del curso Introducción a la programación en PHP 2. El mismo utilizar las tecnologías PHP, HTML y Mysql para generar la aplicación.
 
 Para ejecutar el código
 - clonar el repositorio
