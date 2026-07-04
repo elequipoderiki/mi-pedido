@@ -13,3 +13,6 @@ Para ejecutar el código
 
 ![inicio](images/inicio.png)
 ![busqueda](images/consulta.png)
+
+
+![der](images/der-tienda.png)
