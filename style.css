@@ -1,0 +1,74 @@
+    body {
+        font-family: Arial, sans-serif;
+        background: #a1e7a3;
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        gap: 40px;
+        padding: 40px;
+    }
+
+    .form-box {
+        background: rgb(203, 246, 196);
+        padding: 20px 25px;
+        width: 330px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        margin-top: 0;
+        text-align: center;
+        color: #333;
+    }
+
+    label {
+        display: block;
+        font-weight: bold;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+
+    input,
+    select {
+        width: 95%;
+        padding: 8px;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+    }
+
+    button {
+        margin-top: 20px;
+        width: 100%;
+        padding: 10px;
+        background-color: #1fa35c;
+        border: none;
+        color: white;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    button:hover {
+        background-color: #4ee64b;
+    }
+
+    .main-title {
+        text-align: center;
+        padding-top: 1rem;
+        color: white;
+    }
+
+    .db-insertion-item{
+        text-align: center;
+    }
+
+    .russo-one-regular {
+        font-family: "Russo One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
